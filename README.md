@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/atanshu6555" target="blank"><img src="https://img.shields.io/twitter/follow/atanshu6555?logo=twitter&style=for-the-badge" alt="atanshu6555" /></a> </p>
 
-- 📫 How to reach me **atanshu.ahlawat.07@gmail.com**
+- 📫 Here's my email: **atanshu.ahlawat.07@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/atanshu6555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atanshu6555" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/atanshuahlawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/atanshuahlawat" height="30" width="40" /></a>
