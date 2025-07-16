@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataanshahlawat&label=Profile%20views&color=0e75b6&style=flat" alt="ataanshahlawat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ataanshahlawat" alt="ataanshahlawat" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/atanshu6555" target="blank"><img src="https://img.shields.io/twitter/follow/atanshu6555?logo=twitter&style=for-the-badge" alt="atanshu6555" /></a> </p>
 
 - 📫 How to reach me **atanshu.ahlawat.07@gmail.com**
