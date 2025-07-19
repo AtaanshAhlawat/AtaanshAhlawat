@@ -1,4 +1,5 @@
-<h1 align="center">Hello there, I'm Atanshu Ahlawat ;)</h1>
+<h1 align="center">Bonjour!
+I'm Atanshu Ahlawat ;)</h1>
 <h3 align="center">I get high when I type. Hence, I code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataanshahlawat&label=Profile%20views&color=0e75b6&style=flat" alt="ataanshahlawat" /> </p>
